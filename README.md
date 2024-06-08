@@ -1,6 +1,8 @@
+# Ansible
+
 There are so many tools in market like Puppet, Chef, Salt etc. but
 
-#Why Ansible ?
+# Why Ansible ?
 
 Ansible is an open source automation engin which help us for -
 
@@ -14,7 +16,7 @@ Ansible is an open source automation engin which help us for -
 
 Ansible written in Python, the project benefits from the experience and intelligence of its thousands of contributors.
 
-#Ansible follow Master - Slave Architecture, in ansible term it is
+# Ansible use Master - Slave Architecture, in ansible term it is
 
 Control Node(Master) - The m/c that to install ansible softwate called as control node.
 
